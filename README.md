@@ -1,16 +1,22 @@
+# <img src="https://user-images.githubusercontent.com/83746849/137515913-9eedfb66-7acd-4f89-9a78-3acbd1a60bae.jpg" width="50" height="50" align="center"/> 안녕하세요!
 
+<img src="https://user-images.githubusercontent.com/83746849/137515495-1c5cda69-10f7-48a4-ad60-e73234c07289.jpg" width="20" height="20" align="center"/> Name: 김경식
 
-<!--
-**kskim625/kskim625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/83746849/137514562-fd2bf08e-35ab-4750-9f4b-2839c196b885.jpg" width="20" height="20" align="center"/> E-mail: kskim625@gmail.com
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/83746849/137516741-10dc2e2c-b967-4699-a64f-9251a387cc4f.jpg" width="20" height="20" align="center"/> Notes: <a href="https://diligent-yak-42a.notion.site/e1288888a00d428e88ba139fe940ddc2">Notion.so</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+### <img src="https://user-images.githubusercontent.com/83746849/137511712-0fba10ad-d8bb-43e1-a429-3c2974a4bfa2.jpg" width="20" height="20" align="center"/> Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=Python&logoColor=white)
+
+#
+
+### <img src="https://user-images.githubusercontent.com/83746849/137513009-888e82aa-0465-46f1-8fa1-5e07350cde76.jpg" width="20" height="20" align="center"/> Studying...
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=React&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=Node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=MySQL&logoColor=white)
