@@ -6,6 +6,8 @@
 
 <img src="https://user-images.githubusercontent.com/83746849/137516741-10dc2e2c-b967-4699-a64f-9251a387cc4f.jpg" width="20" height="20" align="center"/> Notes: <a href="https://diligent-yak-42a.notion.site/e1288888a00d428e88ba139fe940ddc2">Notion.so</a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kskim625&layout=compact)](https://github.com/metleeha)
+
 #
 
 ### <img src="https://user-images.githubusercontent.com/83746849/137511712-0fba10ad-d8bb-43e1-a429-3c2974a4bfa2.jpg" width="20" height="20" align="center"/> Tech Stack
@@ -20,3 +22,4 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=React&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=MySQL&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-%2352B0E7?style=flat&logo=Sequelize&logoColor=white)
