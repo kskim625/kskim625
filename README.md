@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/83746849/137514562-fd2bf08e-35ab-4750-9f4b-2839c196b885.jpg" width="20" height="20" align="center"/> E-mail: kskim625@gmail.com
 
-<img src="https://user-images.githubusercontent.com/83746849/137516741-10dc2e2c-b967-4699-a64f-9251a387cc4f.jpg" width="20" height="20" align="center"/> Notes: <a href="https://diligent-yak-42a.notion.site/e1288888a00d428e88ba139fe940ddc2">Notion.so</a>
+<img src="https://user-images.githubusercontent.com/83746849/137516741-10dc2e2c-b967-4699-a64f-9251a387cc4f.jpg" width="20" height="20" align="center"/> Notes: <a href="https://diligent-yak-42a.notion.site/9077497fa1424dc79616feb866e3755f">Notion.so</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kskim625&layout=compact)](https://github.com/metleeha)
 
