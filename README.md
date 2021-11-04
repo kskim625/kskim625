@@ -4,6 +4,8 @@
 
 <img src="https://user-images.githubusercontent.com/83746849/137514562-fd2bf08e-35ab-4750-9f4b-2839c196b885.jpg" width="20" height="20" align="center"/> E-mail: kskim625@gmail.com
 
+<img src="https://user-images.githubusercontent.com/83746849/140288593-a1f31e2a-56ed-475b-b480-3fa0f86bf262.jpg" width="20" height="20" align="center"/> blog: [velog](https://velog.io/@kskim625)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kskim625&layout=compact)](https://github.com/metleeha)
 
 #
