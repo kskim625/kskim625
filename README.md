@@ -14,12 +14,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=React&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=Python&logoColor=white)
 
 #
 
 ### <img src="https://user-images.githubusercontent.com/83746849/137513009-888e82aa-0465-46f1-8fa1-5e07350cde76.jpg" width="20" height="20" align="center"/> Studying...
-![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=React&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=MySQL&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-%2352B0E7?style=flat&logo=Sequelize&logoColor=white)
